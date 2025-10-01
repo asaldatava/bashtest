@@ -15,7 +15,5 @@ function show_uptime() {
     uptime
 }
 
-show_date
-show_user
-show_uptime
+
 
