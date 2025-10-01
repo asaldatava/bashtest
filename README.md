@@ -7,3 +7,6 @@
 ## To perform arithmetic operation for me is most convenient to use $(()).
 
 ## For loop is easier.
+
+## To iterate arguments in testarguments.sh the for loop is used. It was used $@ - array of arguments.
+## It is checked if the file path valid.
