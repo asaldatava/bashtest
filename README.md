@@ -5,3 +5,5 @@
 ### ```./src/test/java/current_data.sh```
 
 ## To perform arithmetic operation for me is most convenient to use $(()).
+
+## For loop is easier.
